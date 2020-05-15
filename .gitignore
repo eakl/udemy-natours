@@ -4,9 +4,7 @@
 /out-tsc
 
 # assets
-/assets/*
-!/assets/*.png
-!/assets/*.ico
+/assets/*.css
 
 # Runtime data
 pids
